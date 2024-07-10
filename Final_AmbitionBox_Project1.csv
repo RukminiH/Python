@@ -1,0 +1,401 @@
+,Company_Names,Total_Employees,Age,Headquater,Office_Locations,High_Rated_For,Total_Reviews,Total_Jobs,Total_Rating,AmbitionBox_Awards
+0,TCS,100000,55,Mumbai,323,"Job Security, Work Life Balance",4.037325905292478,573,3.8,Not Received
+1,Accenture,100000,34,Dublin,162,"Company Culture, Skill Development / Learning, Job Security",44.4,102,4.0, AmbitionBox Award Winner'22
+2,Cognizant,100000,29,Teaneck,199,Skill Development / Learning,39.9,449,3.9, AmbitionBox Award Winner'22
+3,Wipro,100000,78,Bangalore,199,Job Security,37.4,313,3.8, AmbitionBox Award Winner'22
+4,HDFC,100000,29,Mumbai,1489,"Job Security, Skill Development / Learning",32.2,412,3.9, AmbitionBox Award Winner'22
+5,ICICI,100000,29,Mumbai,1243,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,212,4.0, AmbitionBox Award Winner'22
+6,Infosys,100000,42,Bengaluru,199,"Job Security, Company Culture, Skill Development / Learning",30.3,869,3.9, AmbitionBox Award Winner'22
+7,Capgemini,100000,56,Paris,115,"Job Security, Work Life Balance, Skill Development / Learning",28.2,905,3.8, AmbitionBox Award Winner'22
+8,HCLTech,100000,32,Noida,172,Job Security,4.037325905292478,590,3.7,Not Received
+9,Tech,100000,37,Pune,252,"Promotions / Appraisal, Salary & Benefits",26.3,102,3.7,Not Received
+10,Genpact,100000,26,New,199,"Job Security, Skill Development / Learning, Work Life Balance",25.1,102,3.9, AmbitionBox Award Winner'22
+11,Axis,75000,30,Mumbai,1263,Job Security,4.037325905292478,316,3.8,Not Received
+12,Concentrix,75000,40,Fremont,106,"Job Security, Company Culture",20.8,112,3.9,Not Received
+13,Amazon,100000,29,Seattle,423,"Company Culture, Salary & Benefits, Work Life Balance",4.037325905292478,681,4.1, AmbitionBox Award Winner'22
+14,Teleperformance,75000,45,Paris,163,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",19.8,266,3.6,Not Received
+15,Reliance,75000,16,Navi,199,"Job Security, Skill Development / Learning",19.3,150,3.9,Not Received
+16,IBM,100000,112,Armonk,142,"Work Life Balance, Job Security, Skill Development / Learning",4.037325905292478,102,4.1, AmbitionBox Award Winner'22
+17,Larsen,25000,85,Mumbai,614,"Job Security, Skill Development / Learning",17.9,108,4.0,Not Received
+18,Reliance,100000,17,Navi,199,"Skill Development / Learning, Job Security",17.6,246,3.9, AmbitionBox Award Winner'22
+19,HDB,100000,16,Ahmedabad,923,"Skill Development / Learning, Job Security, Company Culture",17.2,58,4.0, AmbitionBox Award Winner'22
+20,Vodafone,23942,5,Mumbai,621,"Company Culture, Work Life Balance, Skill Development / Learning",14.9,339,4.2,Not Received
+21,BYJU,25000,12,Bangalore,298,"Job Security, Work Life Balance, Company Culture",4.037325905292478,906,3.1,Not Received
+22,Deloitte,100000,178,London,152,"Job Security, Salary & Benefits, Skill Development / Learning",13.9,289,3.9, AmbitionBox Award Winner'22
+23,Kotak,75000,20,Mumbai,540,Job Security,13.5,368,3.8, AmbitionBox Award Winner'22
+24,Reliance,100000,46,Navi,199,"Job Security, Skill Development / Learning, Work Life Balance",12.8,40,4.0, AmbitionBox Award Winner'22
+25,Bharti,25000,28,Gurgaon,199,"Skill Development / Learning, Job Security, Company Culture",11.7,322,4.0,Not Received
+26,Tata,25000,78,Pune,443,"Job Security, Skill Development / Learning, Company Culture",10.7,18,4.2,Not Received
+27,iEnergizer,25000,23,Noida,25,"Company Culture, Skill Development / Learning, Job Security",10.7,87,4.6,Not Received
+28,Flipkart,25000,16,Bangalore,518,"Skill Development / Learning, Company Culture, Job Security",9.3,457,4.1, AmbitionBox Award Winner'22
+29,WNS,25000,27,Mumbai,33,Job Security,9.2,147,3.5,Not Received
+30,IndusInd,25000,29,Gurgaon,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",8.7,252,3.7,Not Received
+31,Ernst,75000,21,London,96,Job Security,8.5,102,3.6, AmbitionBox Award Winner'22
+32,Mahindra,100000,78,Mumbai,465,"Job Security, Skill Development / Learning, Company Culture",8.5,95,4.1, AmbitionBox Award Winner'22
+33,AU,25000,27,Jaipur,395,"Skill Development / Learning, Job Security, Company Culture",8.3,181,4.5,Not Received
+34,Infosys,25000,21,Bangalore,199,"Job Security, Company Culture, Skill Development / Learning",4.037325905292478,56,3.9,Not Received
+35,DXC,25000,6,Minato,72,"Work Life Balance, Skill Development / Learning",7.9,141,3.8,Not Received
+36,IDFC,25000,5,Mumbai,551,"Salary & Benefits, Skill Development / Learning, Job Security",7.7,82,4.0,Not Received
+37,Conneqt,25000,21,Mumbai,203,"Promotions / Appraisal, Salary & Benefits",7.4,44,3.7,Not Received
+38,HDFC,25000,23,Mumbai,529,"Skill Development / Learning, Job Security, Company Culture",7.3,112,4.0,Not Received
+39,LTIMindtree,75000,24,Bangalore,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",7.2,37,3.7,Not Received
+40,Bajaj,25000,16,Pune,838,"Salary & Benefits, Skill Development / Learning, Job Security",4.037325905292478,42,4.0,Not Received
+41,Mphasis,25000,25,Bangalore,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",6.6,64,3.5,Not Received
+42,PwC,25000,143,London,87,Job Security,6.6,523,3.6,Not Received
+43,HSBC,25000,21,Pune,56,"Job Security, Work Life Balance, Company Culture",6.6,22,4.1,Not Received
+44,Samsung,7500,85,Seoul,494,"Salary & Benefits, Skill Development / Learning, Job Security",6.6,257,4.1,Not Received
+45,Hinduja,25000,23,Bangalore,199,"Job Security, Company Culture, Work Life Balance",6.6,21,3.9,Not Received
+46,Startek,25000,6,Mumbai,66,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",6.5,36,3.2,Not Received
+47,Ericsson,25000,147,Stockholm,144,"Company Culture, Work Life Balance, Job Security",6.4,75,4.3, AmbitionBox Award Winner'22
+48,Maruti,25000,42,New,199,"Job Security, Salary & Benefits, Skill Development / Learning",6.3,24,4.2, AmbitionBox Award Winner'22
+49,Yes,25000,19,Mumbai,427,"Salary & Benefits, Work Life Balance",4.037325905292478,18,3.9,Not Received
+50,Asian,7500,81,Mumbai,395,"Salary & Benefits, Skill Development / Learning, Job Security",4.037325905292478,80,4.0,Not Received
+51,Cipla,25000,88,Mumbai,223,"Skill Development / Learning, Salary & Benefits, Company Culture",5.9,41,4.1,Not Received
+52,Dr,25000,39,Hyderabad,199,"Skill Development / Learning, Company Culture, Work Life Balance",5.8,139,4.1, AmbitionBox Award Winner'22
+53,Sutherland,25000,37,Pittsford,51,"Promotions / Appraisal, Salary & Benefits",5.8,164,3.7,Not Received
+54,EXL,25000,24,New,199,"Job Security, Work Life Balance",5.6,160,3.8,Not Received
+55,UltraTech,25000,40,Mumbai,418,"Job Security, Skill Development / Learning, Company Culture",5.6,12,4.2,Not Received
+56,NTT,23942,35,Chiyoda,199,"Job Security, Work Life Balance, Company Culture",5.6,88,4.0,Not Received
+57,Bandhan,75000,22,Kolkata,721,Job Security,5.5,34,3.8, AmbitionBox Award Winner'22
+58,TATA,100000,116,Mumbai,164,"Job Security, Skill Development / Learning, Work Life Balance",5.5,18,4.1,Not Received
+59,ICICI,25000,23,Mumbai,436,"Job Security, Skill Development / Learning, Salary & Benefits",5.5,258,4.1,Not Received
+60,Paytm,25000,13,Noida,296,"Job Security, Promotions / Appraisal, Company Culture",5.4,559,3.4,Not Received
+61,Jana,25000,17,Bangalore,199,Promotions / Appraisal,5.4,147,3.8,Not Received
+62,Lupin,25000,55,Mumbai,160,"Skill Development / Learning, Company Culture, Work Life Balance",5.2,22,4.1,Not Received
+63,HCL,100000,47,Chennai,70,Job Security,5.2,1,3.7, AmbitionBox Award Winner'22
+64,Bajaj,25000,36,Pune,733,"Salary & Benefits, Skill Development / Learning, Job Security",5.2,81,4.0,Not Received
+65,Indian,100000,128,New,199,"Job Security, Company Culture, Work Satisfaction",5.2,102,4.7,Not Received
+66,Udaan,2500,7,Bangalore,334,"Salary & Benefits, Skill Development / Learning",5.1,290,4.0, AmbitionBox Award Winner'22
+67,L,25000,27,Mumbai,79,Job Security,4.037325905292478,124,3.8,Not Received
+68,ITC,25000,48,Kolkata,292,"Job Security, Skill Development / Learning",4.037325905292478,68,3.9,Not Received
+69,Zydus,25000,71,Ahmedabad,143,"Job Security, Skill Development / Learning, Salary & Benefits",4.9,46,4.1,Not Received
+70,Wells,25000,171,San,199,"Job Security, Work Life Balance, Company Culture",4.9,25,4.1,Not Received
+71,Delhivery,25000,12,Delhi,592,Skill Development / Learning,4.8,358,4.0, AmbitionBox Award Winner'22
+72,JP,75000,23,New,199,"Job Security, Company Culture, Skill Development / Learning",4.8,102,4.2,Not Received
+73,Quess,100000,16,Bangalore,484,Work Life Balance,4.8,243,4.0,Not Received
+74,FIS,25000,55,Jacksonville,43,"Work Life Balance, Company Culture, Job Security",4.8,95,3.9,Not Received
+75,Hindustan,25000,151,London,408,"Skill Development / Learning, Job Security, Company Culture",4.7,210,4.2, AmbitionBox Award Winner'22
+76,Amazon,25000,46,London,199,"Company Culture, Salary & Benefits, Work Life Balance",4.7,29,4.2,Not Received
+77,IIFL,25000,28,Mumbai,639,Not Rated For,4.7,126,3.9,Not Received
+78,Hexaware,25000,33,Mumbai,40,"Promotions / Appraisal, Salary & Benefits",4.5,277,3.7,Not Received
+79,JSW,25000,41,Mumbai,130,"Job Security, Skill Development / Learning",4.4,51,3.9,Not Received
+80,Sun,25000,40,Mumbai,187,"Job Security, Skill Development / Learning, Salary & Benefits",4.4,98,4.1,Not Received
+81,Ujjivan,25000,6,Bangalore,199,"Company Culture, Job Security, Skill Development / Learning",4.3,93,4.1,Not Received
+82,Home,25000,11,Gurugram,112,"Skill Development / Learning, Company Culture, Work Life Balance",4.3,96,4.1,Not Received
+83,Max,25000,23,Gurgaon,199,"Skill Development / Learning, Company Culture, Job Security",4.2,385,4.1,Not Received
+84,Muthoot,25000,84,Kochi,199,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",4.2,430,3.5,Not Received
+85,Shapoorji,7500,158,Mumbai,155,"Job Security, Skill Development / Learning, Company Culture",4.2,13,4.2,Not Received
+86,KPMG,25000,36,Bengaluru,199,Job Security,4.2,426,3.6,Not Received
+87,Oracle,75000,46,Austin,44,"Work Life Balance, Job Security, Company Culture",4.2,212,3.8, AmbitionBox Award Winner'22
+88,Aurobindo,25000,37,Hyderabad,199,"Job Security, Salary & Benefits, Work Life Balance",4.2,6,4.0,Not Received
+89,OPPO,25000,19,Dongguan,359,Skill Development / Learning,4.1,14,3.9,Not Received
+90,eClerx,25000,23,Mumbai,17,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",4.1,180,3.4,Not Received
+91,Tata,7500,44,Mumbai,230,"Job Security, Company Culture, Skill Development / Learning",4.1,26,4.2,Not Received
+92,Capgemini,100000,46,Mumbai,199,"Job Security, Work Life Balance, Company Culture",4.1,2,4.0,Not Received
+93,Ashok,7500,75,Chennai,200,"Skill Development / Learning, Work Satisfaction, Company Culture",4.1,1,4.1,Not Received
+94,Shriram,25000,44,Mumbai,760,"Job Security, Skill Development / Learning, Work Life Balance",4.1,102,4.1,Not Received
+95,Siemens,7500,176,Munich,121,"Job Security, Company Culture, Work Life Balance",4.1,102,4.2,Not Received
+96,Apollo,25000,40,Chennai,177,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,99,4.1,Not Received
+97,JLL,25000,26,Mumbai,68,"Skill Development / Learning, Job Security, Company Culture",4.037325905292478,26,4.2, AmbitionBox Award Winner'22
+98,Vivo,7500,14,Gurgaon,199,"Skill Development / Learning, Company Culture, Work Life Balance",4.037325905292478,5,4.0,Not Received
+99,L,25000,79,Chennai,328,"Job Security, Skill Development / Learning, Salary & Benefits",4.037325905292478,102,4.0,Not Received
+100,Omega,25000,20,Florida,41,"Promotions / Appraisal, Salary & Benefits",3.9,81,3.8,Not Received
+101,First,25000,22,Mumbai,50,Promotions / Appraisal,3.9,151,3.8,Not Received
+102,JustDial,25000,27,Mumbai,169,"Promotions / Appraisal, Work Satisfaction, Job Security",3.9,116,3.5,Not Received
+103,Hewlett,25000,8,Houston,95,"Company Culture, Work Life Balance, Job Security",3.8,61,4.3, AmbitionBox Award Winner'22
+104,Hero,7500,39,Gurgaon,199,"Work Life Balance, Job Security, Company Culture",3.8,7,4.1,Not Received
+105,Megha,75000,34,Hyderabad,199,"Job Security, Skill Development / Learning, Work Life Balance",3.8,11,4.0,Not Received
+106,Bajaj,25000,22,Pune,481,"Salary & Benefits, Work Life Balance, Job Security",3.7,27,4.1,Not Received
+107,Mahindra,25000,32,Mumbai,628,"Job Security, Company Culture, Work Life Balance",3.7,47,4.3, AmbitionBox Award Winner'22
+108,Cyient,25000,32,Hyderabad,199,Job Security,3.7,248,3.8,Not Received
+109,ICICI,25000,22,Mumbai,253,Job Security,3.7,165,3.8,Not Received
+110,D,25000,23,Mumbai,206,"Job Security, Company Culture",3.6,104,3.9, AmbitionBox Award Winner'22
+111,Coforge,25000,19,Noida,85,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",3.6,196,3.5,Not Received
+112,Indiamart,2500,27,Noida,131,"Promotions / Appraisal, Work Satisfaction",3.6,904,3.6,Not Received
+113,BigBasket,25000,12,Bangalore,107,"Job Security, Skill Development / Learning",3.6,21,4.0,Not Received
+114,Virtusa,25000,27,Southborough,33,Promotions / Appraisal,3.6,98,3.8,Not Received
+115,Hyundai,25000,56,Seoul,262,"Job Security, Salary & Benefits, Skill Development / Learning",3.6,17,4.3,Not Received
+116,Equitas,25000,16,Chennai,360,"Job Security, Company Culture, Work Life Balance",3.5,19,4.4, AmbitionBox Award Winner'22
+117,TVS,7500,44,Chennai,263,"Skill Development / Learning, Salary & Benefits, Company Culture",3.5,19,4.0,Not Received
+118,Nagarro,25000,27,Munich,38,"Company Culture, Work Life Balance, Salary & Benefits",3.5,126,4.2, AmbitionBox Award Winner'22
+119,Reliance,250,21,Navi,199,Skill Development / Learning,3.4,2,3.9,Not Received
+120,UST,25000,22,Aliso,199,"Work Life Balance, Company Culture",3.4,103,3.9,Not Received
+121,GlobalLogic,25000,23,San,199,"Work Life Balance, Job Security, Company Culture",3.4,96,3.7,Not Received
+122,Atos,7500,43,Troy,21,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.4,40,3.5,Not Received
+123,IQVIA,25000,41,Durham,41,"Job Security, Company Culture, Work Life Balance",3.4,39,4.1, AmbitionBox Award Winner'22
+124,Manappuram,25000,74,Thrissur,199,"Skill Development / Learning, Promotions / Appraisal",3.4,3,3.9,Not Received
+125,Bosch,25000,33,Gerlingen,28,"Job Security, Work Life Balance, Company Culture",3.4,2,4.2,Not Received
+126,Bosch,7500,137,Gerlingen,95,"Company Culture, Work Life Balance, Skill Development / Learning",3.4,10,4.3,Not Received
+127,Cummins,25000,61,Columbus,99,"Company Culture, Work Life Balance, Skill Development / Learning",3.4,20,4.4, AmbitionBox Award Winner'22
+128,SBI,23942,25,Gurgaon,199,"Promotions / Appraisal, Work Satisfaction",3.4,130,3.7,Not Received
+129,Oyo,2500,10,Gurgaon,112,"Job Security, Promotions / Appraisal, Work Satisfaction",3.3,170,3.4,Not Received
+130,BNY,25000,19,New,199,"Company Culture, Work Life Balance, Job Security",3.3,438,4.1,Not Received
+131,SMFG,25000,16,Mumbai,471,"Salary & Benefits, Job Security, Skill Development / Learning",3.3,36,4.1,Not Received
+132,BT,25000,177,London,17,"Job Security, Work Life Balance, Company Culture",3.3,27,4.1, AmbitionBox Award Winner'22
+133,Amdocs,25000,41,Chesterfield,14,"Company Culture, Job Security",3.3,5,3.9,Not Received
+134,Schneider,25000,24,Paris,104,"Company Culture, Skill Development / Learning, Job Security",3.3,140,4.1, AmbitionBox Award Winner'22
+135,Cholamandalam,25000,45,Chennai,601,"Salary & Benefits, Job Security, Skill Development / Learning",3.2,10,4.1,Not Received
+136,CBRE,25000,117,Los,199,"Skill Development / Learning, Job Security, Company Culture",3.2,108,4.2, AmbitionBox Award Winner'22
+137,L,25000,11,Vadodara,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",3.2,1,3.4,Not Received
+138,Ekart,7500,14,San,199,"Skill Development / Learning, Salary & Benefits, Company Culture",3.2,102,4.1,Not Received
+139,State,100000,217,Mumbai,466,Job Security,3.2,182,3.7,Not Received
+140,Future,25000,10,Mumbai,201,"Skill Development / Learning, Company Culture, Work Life Balance",3.2,16,4.3,Not Received
+141,Swiggy,7500,9,Bangalore,177,Salary & Benefits,3.1,357,3.9, AmbitionBox Award Winner'22
+142,JBM,2500,40,Gurgaon,199,"Job Security, Skill Development / Learning",3.1,1,4.0,Not Received
+143,Dell,25000,39,Round,199,"Company Culture, Work Life Balance, Skill Development / Learning",3.1,79,4.1,Not Received
+144,Ecom,25000,11,Gurgaon,591,"Skill Development / Learning, Work Life Balance, Company Culture",3.1,63,4.0, AmbitionBox Award Winner'22
+145,SBI,25000,22,Mumbai,505,Job Security,3.1,17,3.8,Not Received
+146,Bajaj,7500,78,Pune,238,Promotions / Appraisal,3.1,102,3.9,Not Received
+147,Optum,25000,46,Prairie,28,"Job Security, Work Life Balance, Company Culture",3.1,21,4.0,Not Received
+148,KEC,7500,78,Mumbai,259,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,4,4.1,Not Received
+149,Nagarjuna,7500,25,Hyderabad,199,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,35,4.1,Not Received
+150,Aditya,25000,8,Mumbai,215,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,72,4.2,Not Received
+151,Muthoot,25000,136,Trivandrum,199,"Job Security, Work Life Balance, Skill Development / Learning",4.037325905292478,13,4.0,Not Received
+152,Piramal,2500,3,Mumbai,311,"Company Culture, Skill Development / Learning, Salary & Benefits",2.9,23,4.2,Not Received
+153,Viatris,25000,62,Canonsburg,68,"Salary & Benefits, Job Security, Work Life Balance",2.9,5,4.3, AmbitionBox Award Winner'22
+154,Royal,25000,122,Gurgaon,199,"Skill Development / Learning, Company Culture, Work Satisfaction",2.9,16,4.2,Not Received
+155,Samvardhana,2500,37,Noida,73,Job Security,2.9,41,3.8,Not Received
+156,Tata,7500,37,Mumbai,88,"Job Security, Company Culture, Skill Development / Learning",2.9,457,4.1,Not Received
+157,L,25000,29,Mumbai,464,"Salary & Benefits, Skill Development / Learning",2.9,102,4.0,Not Received
+158,Godrej,25000,126,Mumbai,126,Job Security,2.9,39,3.9,Not Received
+159,LG,25000,65,Seoul,236,"Job Security, Skill Development / Learning",2.9,6,4.0,Not Received
+160,Intas,25000,23,Ahmedabad,112,"Job Security, Work Life Balance, Salary & Benefits",2.8,61,4.2, AmbitionBox Award Winner'22
+161,John,7500,22,Moline,114,"Company Culture, Skill Development / Learning, Work Life Balance",2.8,12,4.3,Not Received
+162,Kogta,2500,27,Jaipur,205,"Company Culture, Work Life Balance, Work Satisfaction",2.8,14,4.8,Not Received
+163,Varun,7500,28,Gurgaon,199,"Job Security, Salary & Benefits",2.8,111,4.0,Not Received
+164,Thermax,2500,57,Pune,167,"Job Security, Company Culture, Skill Development / Learning",2.8,50,4.2,Not Received
+165,Whitehat,7500,5,Mumbai,49,"Job Security, Promotions / Appraisal, Work Life Balance",2.7,514,3.5,Not Received
+166,Randstad,7500,31,Chennai,240,"Promotions / Appraisal, Job Security",2.7,102,3.9,Not Received
+167,Persistent,25000,33,Pune,29,"Company Culture, Skill Development / Learning, Work Life Balance",2.7,90,3.8,Not Received
+168,Deutsche,25000,153,Frankfurt,34,"Job Security, Work Life Balance, Company Culture",2.7,716,4.1, AmbitionBox Award Winner'22
+169,Hetero,2500,30,Hyderabad,199,Job Security,2.7,29,3.8,Not Received
+170,Havells,7500,40,Noida,172,"Work Life Balance, Salary & Benefits, Company Culture",2.7,59,4.1,Not Received
+171,CARS24,7500,8,Gurgaon,146,"Job Security, Promotions / Appraisal, Work Satisfaction",2.7,285,3.6,Not Received
+172,Sodexo,25000,15,Issy,199,"Skill Development / Learning, Company Culture, Work Life Balance",2.7,111,4.1,Not Received
+173,Macleods,25000,37,Mumbai,94,Job Security,2.7,102,3.8,Not Received
+174,Subros,2500,38,Noida,54,"Job Security, Skill Development / Learning, Company Culture",2.7,5,3.9,Not Received
+175,Abbott,25000,32,Illinois,199,"Company Culture, Work Life Balance, Salary & Benefits",2.7,65,4.1,Not Received
+176,Ford,7500,120,Dearborn,106,"Company Culture, Work Life Balance, Salary & Benefits",2.7,44,4.4,Not Received
+177,VE,2500,15,Gurgaon,199,"Job Security, Skill Development / Learning, Company Culture",2.6,3,4.0,Not Received
+178,Automatic,2500,74,New,199,"Job Security, Company Culture, Work Life Balance",2.6,37,4.1,Not Received
+179,American,25000,173,New,199,"Company Culture, Work Life Balance, Job Security",2.6,93,4.3, AmbitionBox Award Winner'22
+180,Team,2500,7,Bangalore,199,Promotions / Appraisal,2.6,251,3.9,Not Received
+181,UnitedHealth,25000,46,Minnetonka,14,"Job Security, Work Life Balance, Company Culture",2.6,10,4.1,Not Received
+182,Indian,25000,64,Delhi,199,"Company Culture, Work Life Balance, Job Security",2.6,102,4.4,Not Received
+183,Cgi,25000,47,Montreal,20,"Job Security, Company Culture, Work Life Balance",2.6,128,4.1,Not Received
+184,Standard,25000,54,London,57,"Job Security, Company Culture",2.6,36,3.9,Not Received
+185,Bharat,7500,69,Bangalore,199,"Work Life Balance, Company Culture, Skill Development / Learning",2.5,102,4.1,Not Received
+186,Pidilite,7500,64,Mumbai,220,"Job Security, Company Culture, Work Life Balance",2.5,41,4.4, AmbitionBox Award Winner'22
+187,Publicis,25000,33,New,199,"Promotions / Appraisal, Job Security, Work Satisfaction",2.5,189,3.6,Not Received
+188,Atos,25000,26,Vilnius,37,"Work Life Balance, Job Security",2.5,6,3.8,Not Received
+189,R1,7500,16,Murray,25,"Job Security, Company Culture, Work Life Balance",2.5,36,3.9,Not Received
+190,Alembic,25000,116,Vadodara,199,"Salary & Benefits, Work Life Balance",2.5,47,4.0,Not Received
+191,Alkem,25000,50,Mumbai,151,Not Rated For,2.5,25,3.9,Not Received
+192,Hindalco,25000,65,Mumbai,79,"Job Security, Skill Development / Learning, Company Culture",2.5,8,4.2,Not Received
+193,Access,7500,12,Dallas,28,"Job Security, Company Culture",2.5,52,3.9,Not Received
+194,Indian,100000,91,New,199,"Job Security, Skill Development / Learning, Salary & Benefits",2.5,102,4.6,Not Received
+195,DCB,7500,93,Mumbai,297,"Job Security, Work Life Balance, Company Culture",2.5,42,3.9,Not Received
+196,Hindustan,7500,26,Bangalore,207,"Skill Development / Learning, Job Security, Company Culture",2.5,63,4.3, AmbitionBox Award Winner'22
+197,ITC,25000,23,Bangalore,199,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",2.5,74,3.6,Not Received
+198,Tata,25000,22,Mumbai,293,"Job Security, Salary & Benefits, Skill Development / Learning",2.5,102,4.1,Not Received
+199,Vishal,25000,15,Gurgaon,199,Salary & Benefits,2.4,7,3.8, AmbitionBox Award Winner'22
+200,Wipro,100000,78,Bangalore,117,"Job Security, Skill Development / Learning, Company Culture",2.4,102,4.0,Not Received
+201,Barclays,25000,333,London,30,"Job Security, Company Culture, Work Life Balance",2.4,43,4.1,Not Received
+202,Aakash,25000,35,New,199,"Work Life Balance, Promotions / Appraisal, Work Satisfaction",2.4,139,3.6,Not Received
+203,Glenmark,25000,46,Mumbai,134,"Skill Development / Learning, Job Security, Salary & Benefits",2.4,38,4.0,Not Received
+204,Maersk,25000,119,Copenhagen,34,"Company Culture, Work Life Balance, Job Security",2.4,106,4.3,Not Received
+205,ABB,2500,35,Zurich,92,"Job Security, Work Life Balance, Company Culture",2.4,102,4.1,Not Received
+206,Wipro,47500,78,Bangalore,163,Job Security,2.4,1,3.8,Not Received
+207,Ipca,25000,74,Mumbai,121,"Job Security, Work Life Balance, Skill Development / Learning",2.4,38,4.0,Not Received
+208,Wipro,2500,78,Bangalore,199,Job Security,2.4,33,3.8,Not Received
+209,NatWest,25000,46,Bangalore,199,"Work Life Balance, Job Security, Company Culture",2.4,5,4.1,Not Received
+210,Bank,25000,25,Charlotte,29,"Job Security, Work Life Balance, Company Culture",2.4,1,4.4,Not Received
+211,CMS,7500,9,Bangalore,134,"Promotions / Appraisal, Salary & Benefits, Company Culture",2.4,10,3.1,Not Received
+212,MRF,25000,77,Chennai,161,Job Security,2.4,6,3.7,Not Received
+213,Aarti,7500,48,Mumbai,42,"Job Security, Work Life Balance, Skill Development / Learning",2.4,47,4.1,Not Received
+214,Utkarsh,25000,14,Varanasi,283,Job Security,2.4,10,3.9,Not Received
+215,Axis,2500,12,San,199,Promotions / Appraisal,2.4,26,3.9,Not Received
+216,DTDC,2500,33,Bangalore,199,"Promotions / Appraisal, Salary & Benefits",2.4,84,3.8,Not Received
+217,Honda,25000,24,Gurgaon,199,"Job Security, Work Life Balance, Company Culture",2.3,1,4.2,Not Received
+218,Reliance,25000,23,Mumbai,425,Not Rated For,2.3,3,3.9,Not Received
+219,Berger,2500,100,Kolkata,221,Job Security,2.3,52,3.7,Not Received
+220,Jindal,7500,44,Delhi,199,"Skill Development / Learning, Job Security",2.3,22,3.9,Not Received
+221,24,7500,23,San,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2.3,29,3.6,Not Received
+222,Paras,7500,17,Gurgaon,199,"Skill Development / Learning, Company Culture, Work Life Balance",2.3,43,4.6,Not Received
+223,HDFC,25000,21,Mumbai,216,"Job Security, Company Culture, Work Life Balance",2.3,44,4.0,Not Received
+224,PolicyBazaar,25000,15,Gurgaon,75,"Work Life Balance, Promotions / Appraisal, Company Culture",2.3,85,3.4,Not Received
+225,RBL,25000,80,Mumbai,208,Promotions / Appraisal,2.3,94,3.7,Not Received
+226,Carelon,7500,46,Mumbai,199,"Job Security, Salary & Benefits, Company Culture",2.3,7,4.0,Not Received
+227,Conduent,7500,6,Florham,199,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",2.3,69,3.6,Not Received
+228,PNB,7500,22,Mumbai,311,"Job Security, Work Satisfaction, Promotions / Appraisal",2.3,669,3.5,Not Received
+229,GeBBS,7500,18,Culver,199,Job Security,2.3,99,3.7,Not Received
+230,Cogent,25000,19,Noida,32,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction",2.3,2,3.4,Not Received
+231,Kotak,25000,22,Mumbai,200,Job Security,2.3,174,3.9,Not Received
+232,Ceat,7500,65,Mumbai,106,"Job Security, Company Culture, Skill Development / Learning",2.3,1,4.0,Not Received
+233,Dabur,7500,139,Ghaziabad,237,Promotions / Appraisal,2.3,23,3.8,Not Received
+234,Reliance,7500,16,Mumbai,290,"Job Security, Skill Development / Learning, Company Culture",2.3,2,4.2,Not Received
+235,Shoppers,7500,32,Mumbai,62,"Job Security, Company Culture, Skill Development / Learning",2.3,1,4.2,Not Received
+236,GATI,2500,11,Hyderabad,199,"Skill Development / Learning, Job Security, Work Life Balance",2.2,25,4.0,Not Received
+237,Indiabulls,7500,18,Gurgaon,199,Promotions / Appraisal,2.2,6,3.8,Not Received
+238,Marpu,75,7,Hyderabad,199,"Company Culture, Work Satisfaction, Skill Development / Learning",2.2,102,4.8,Not Received
+239,JK,2500,49,Gurgaon,199,"Salary & Benefits, Job Security, Company Culture",2.2,102,4.1,Not Received
+240,Jubilant,25000,28,Noida,185,"Skill Development / Learning, Salary & Benefits",2.2,97,3.8,Not Received
+241,ACC,7500,87,Mumbai,207,Promotions / Appraisal,2.2,5,3.9,Not Received
+242,IndiGo,25000,18,Gurgaon,199,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",2.2,56,3.6,Not Received
+243,S,25000,106,New,199,"Company Culture, Work Life Balance, Job Security",2.2,7,4.2,Not Received
+244,Birlasoft,25000,28,Pune,32,"Promotions / Appraisal, Salary & Benefits",2.2,73,3.7,Not Received
+245,Reliance,2500,16,Mumbai,465,"Skill Development / Learning, Salary & Benefits, Work Life Balance",2.2,1,4.0,Not Received
+246,Torrent,25000,52,Ahmedabad,94,"Job Security, Work Life Balance, Company Culture",2.2,23,3.9,Not Received
+247,HARMAN,7500,14,Stamford,28,Work Life Balance,2.2,2,3.8,Not Received
+248,Synechron,7500,22,New,199,"Salary & Benefits, Skill Development / Learning, Company Culture",2.2,61,3.9,Not Received
+249,Square,2500,10,Gurgaon,41,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",2.2,642,4.0,Not Received
+250,ArcelorMittal,7500,46,Gurgaon,199,"Job Security, Skill Development / Learning, Work Life Balance",2.2,8,4.0,Not Received
+251,Titan,7500,39,Bangalore,134,"Company Culture, Job Security, Skill Development / Learning",2.1,90,4.4,Not Received
+252,KPIT,7500,33,Pune,28,"Promotions / Appraisal, Job Security, Work Satisfaction",2.1,7,3.6,Not Received
+253,Lenskart,7500,13,Faridabad,156,"Promotions / Appraisal, Work Satisfaction, Company Culture",2.1,177,3.2,Not Received
+254,UPL,7500,54,Mumbai,148,"Job Security, Skill Development / Learning, Work Life Balance",2.1,28,4.1,Not Received
+255,Bajaj,2500,85,Mumbai,186,"Salary & Benefits, Work Life Balance, Company Culture",2.1,55,4.1,Not Received
+256,Statestreet,7500,11,New,199,Job Security,2.1,102,3.2,Not Received
+257,Dilip,25000,36,Bhopal,176,Skill Development / Learning,2.1,10,4.0,Not Received
+258,Patanjali,7500,17,Haridwar,272,"Work Life Balance, Job Security",2.1,1,4.0,Not Received
+259,RSPL,25000,36,Mumbai,188,"Job Security, Skill Development / Learning, Work Life Balance",2.1,13,4.1,Not Received
+260,Simplex,2500,99,Kolkata,132,"Salary & Benefits, Promotions / Appraisal, Company Culture",2.1,13,3.3,Not Received
+261,AGS,25000,12,Washington,199,"Job Security, Company Culture, Skill Development / Learning",2.1,24,4.0,Not Received
+262,Tech,7500,20,Mumbai,43,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",2.1,4,3.5,Not Received
+263,Tata,7500,23,Mumbai,212,"Job Security, Company Culture, Skill Development / Learning",2.1,99,4.1,Not Received
+264,Domino,2500,63,Ypsilanti,210,"Skill Development / Learning, Salary & Benefits, Company Culture",2.1,3,4.0,Not Received
+265,Apollo,25000,51,Gurgaon,199,"Skill Development / Learning, Company Culture, Job Security",2.1,17,4.1,Not Received
+266,Escorts,2500,63,Faridabad,117,"Skill Development / Learning, Work Life Balance, Company Culture",2.1,102,4.1, AmbitionBox Award Winner'22
+267,TVS,25000,15,Chennai,282,"Job Security, Skill Development / Learning, Company Culture",2.1,38,4.5, AmbitionBox Award Winner'22
+268,Johnson,7500,138,Cork,46,"Promotions / Appraisal, Work Satisfaction, Job Security",2.1,31,3.5,Not Received
+269,Huawei,75,21,Gurgaon,199,"Salary & Benefits, Skill Development / Learning",2.1,6,4.0,Not Received
+270,KocharTech,2500,28,Gurgaon,199,"Skill Development / Learning, Company Culture, Work Satisfaction",4.037325905292478,42,4.2,Not Received
+271,Flex,7500,54,San,199,"Company Culture, Work Life Balance, Skill Development / Learning",4.037325905292478,19,4.1,Not Received
+272,Capita,7500,18,Indore,22,"Job Security, Work Life Balance",4.037325905292478,41,3.8,Not Received
+273,AFCONS,7500,64,Mumbai,90,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,5,4.4, AmbitionBox Award Winner'22
+274,IGT,7500,25,Gurgaon,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",4.037325905292478,162,3.3,Not Received
+275,Alstom,7500,95,Saint,199,Job Security,4.037325905292478,222,3.9,Not Received
+276,Suzlon,7500,28,Pune,104,"Job Security, Skill Development / Learning, Company Culture",4.037325905292478,16,4.1,Not Received
+277,EY,75000,21,Bangalore,199,"Job Security, Skill Development / Learning",4.037325905292478,102,3.7,Not Received
+278,McDonald,7500,68,Chicago,132,"Skill Development / Learning, Company Culture, Job Security",4.037325905292478,20,4.2,Not Received
+279,Mankind,25000,28,New,199,"Salary & Benefits, Skill Development / Learning, Company Culture",4.037325905292478,41,4.1,Not Received
+280,Birla,25000,23,Mumbai,358,"Job Security, Company Culture, Work Life Balance",4.037325905292478,3,4.2,Not Received
+281,Zensar,7500,22,Pune,22,Work Life Balance,4.037325905292478,72,3.8,Not Received
+282,Max,2500,22,Delhi,199,"Skill Development / Learning, Job Security, Company Culture",4.037325905292478,107,4.1,Not Received
+283,Lava,2500,14,Noida,206,"Skill Development / Learning, Company Culture, Work Life Balance",4.037325905292478,18,4.1,Not Received
+284,Tata,7500,34,Singapore,39,"Job Security, Work Life Balance",4.037325905292478,161,3.7,Not Received
+285,Bajaj,7500,46,Singapore,199,"Skill Development / Learning, Company Culture, Job Security",4.037325905292478,16,4.0,Not Received
+286,Taj,25000,120,Mumbai,89,"Job Security, Company Culture, Skill Development / Learning",4.037325905292478,35,4.2,Not Received
+287,State,47500,19,Mumbai,19,"Job Security, Skill Development / Learning",4.037325905292478,102,3.7,Not Received
+288,State,25000,231,Boston,16,Job Security,4.037325905292478,86,3.8,Not Received
+289,Walmart,7500,14,Bangalore,199,"Job Security, Company Culture, Salary & Benefits",4.037325905292478,146,4.0,Not Received
+290,Landmark,2500,50,Dubai,199,"Job Security, Skill Development / Learning, Company Culture",1.9,119,4.0,Not Received
+291,Nokia,25000,158,Espoo,148,"Company Culture, Work Life Balance, Job Security",1.9,16,4.2,Not Received
+292,Capgemini,23942,46,Espoo,199,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1.9,84,3.6,Not Received
+293,Blue,25000,40,Mumbai,229,"Job Security, Company Culture, Work Life Balance",1.9,1,4.1,Not Received
+294,Nestle,7500,64,Vevey,214,"Salary & Benefits, Job Security, Skill Development / Learning",1.9,35,4.1,Not Received
+295,ElasticRun,2500,7,Pune,326,"Job Security, Promotions / Appraisal, Work Satisfaction",1.9,46,3.3,Not Received
+296,Tractors,25000,63,Chennai,157,"Skill Development / Learning, Work Life Balance, Company Culture",1.9,21,4.1,Not Received
+297,HDFC,25000,19,Mumbai,269,"Skill Development / Learning, Company Culture, Work Life Balance",1.9,34,4.0,Not Received
+298,IDFC,25000,7,Tiruchirappalli,274,"Salary & Benefits, Job Security, Company Culture",1.9,8,4.6,Not Received
+299,I,2500,18,Mumbai,273,"Promotions / Appraisal, Salary & Benefits",1.9,13,3.8,Not Received
+300,Societe,2500,23,Bengaluru,199,"Job Security, Work Life Balance, Company Culture",1.9,39,3.9,Not Received
+301,G4S,100000,27,Gurgaon,199,Work Life Balance,1.9,2,4.0,Not Received
+302,Fortis,2500,27,New,199,"Skill Development / Learning, Job Security, Company Culture",1.9,79,4.0,Not Received
+303,Fiserv,7500,39,Pune,28,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",1.9,79,3.6,Not Received
+304,BlackBuck,2500,8,Vapi,292,Salary & Benefits,1.9,66,3.8, AmbitionBox Award Winner'22
+305,UNO,250,65,Pune,83,"Job Security, Skill Development / Learning, Company Culture",1.9,5,4.0,Not Received
+306,Ola,2500,13,Bengaluru,199,"Job Security, Promotions / Appraisal, Company Culture",1.9,476,3.5,Not Received
+307,Croma,7500,17,Vapi,132,"Job Security, Skill Development / Learning, Work Life Balance",1.9,117,4.1,Not Received
+308,KFintech,7500,6,Hyderabad,199,Job Security,1.9,12,3.6,Not Received
+309,Britannia,2500,131,Bengaluru,199,"Job Security, Skill Development / Learning, Company Culture",1.9,32,4.1,Not Received
+310,Voltas,2500,69,Mumbai,166,"Job Security, Skill Development / Learning, Company Culture",1.8,102,4.0,Not Received
+311,Micro,25000,50,Bengaluru,199,Job Security,1.8,9,3.6,Not Received
+312,Lifestyle,25000,24,Chengalpattu,106,"Job Security, Company Culture, Skill Development / Learning",1.8,15,4.4, AmbitionBox Award Winner'22
+313,TVS,2500,127,Chengalpattu,125,Job Security,1.8,19,3.9,Not Received
+314,Grasim,25000,76,Bharuch,86,"Job Security, Skill Development / Learning, Company Culture",1.8,9,4.0,Not Received
+315,Exide,7500,76,Kolkata,178,"Promotions / Appraisal, Company Culture, Work Satisfaction",1.8,71,3.5,Not Received
+316,Radisson,25000,114,Chengalpattu,99,"Skill Development / Learning, Work Life Balance, Job Security",1.8,3,4.0,Not Received
+317,Extramarks,2500,16,Noida,99,"Job Security, Promotions / Appraisal, Work Satisfaction",1.8,119,3.5,Not Received
+318,Eureka,2500,41,Mumbai,156,Skill Development / Learning,1.8,15,3.9,Not Received
+319,Aditya,25000,166,Mumbai,218,"Job Security, Skill Development / Learning, Company Culture",1.8,4,4.1, AmbitionBox Award Winner'22
+320,Sterlite,2500,35,Pune,71,Work Life Balance,1.8,55,3.9,Not Received
+321,PepsiCo,100000,34,Harrison,198,"Job Security, Company Culture, Skill Development / Learning",1.8,166,4.1,Not Received
+322,Quest,25000,26,Singapore,29,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1.8,263,3.6,Not Received
+323,Shree,7500,44,Kolkata,183,Work Life Balance,1.8,102,4.0,Not Received
+324,The,7500,93,San,199,"Work Life Balance, Company Culture, Skill Development / Learning",1.8,21,4.1,Not Received
+325,Future,25000,36,San,199,"Skill Development / Learning, Company Culture, Work Satisfaction",1.8,2,4.3,Not Received
+326,ACT,7500,15,Bengaluru,199,"Job Security, Company Culture, Salary & Benefits",1.8,106,4.1,Not Received
+327,Ajanta,7500,50,Mumbai,95,"Job Security, Work Life Balance, Company Culture",1.8,4,4.0,Not Received
+328,Dalmia,7500,88,Delhi,199,"Job Security, Salary & Benefits, Skill Development / Learning",1.8,2,4.0,Not Received
+329,IKS,7500,16,Mumbai,13,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1.7,38,3.6,Not Received
+330,JMC,2500,41,Mumbai,114,"Job Security, Skill Development / Learning, Salary & Benefits",1.7,1,4.2,Not Received
+331,Blue,2500,80,Mumbai,124,"Company Culture, Skill Development / Learning, Work Satisfaction",1.7,7,4.1,Not Received
+332,Rivigo,2500,9,Gurgaon,148,Skill Development / Learning,1.7,5,3.9, AmbitionBox Award Winner'22
+333,Yazaki,23942,82,Tokyo,61,Promotions / Appraisal,1.7,7,3.8,Not Received
+334,Cholamandalam,2500,22,Chennai,321,Promotions / Appraisal,1.7,4,3.9,Not Received
+335,Kyndryl,25000,2,New,199,"Work Life Balance, Skill Development / Learning, Company Culture",1.7,39,4.1,Not Received
+336,Ninjacart,2500,8,Bangalore,88,"Skill Development / Learning, Salary & Benefits, Company Culture",1.7,41,4.1,Not Received
+337,Nokia,47500,46,Bangalore,199,"Company Culture, Work Life Balance, Skill Development / Learning",1.7,102,4.4,Not Received
+338,Life,100000,67,Mumbai,395,"Work Life Balance, Company Culture, Salary & Benefits",1.7,10,4.3,Not Received
+339,Delhi,2500,25,Greater,199,Skill Development / Learning,1.7,90,3.9,Not Received
+340,Sonalika,2500,54,Hoshiarpur,142,Job Security,1.7,1,3.7,Not Received
+341,Zomato,2500,15,Gurgaon,161,"Promotions / Appraisal, Job Security",1.7,15,3.7,Not Received
+342,Tata,250,27,Mumbai,147,"Work Life Balance, Company Culture, Skill Development / Learning",1.7,1,4.1,Not Received
+343,XpressBees,7500,8,Pune,218,Promotions / Appraisal,1.7,181,3.8, AmbitionBox Award Winner'22
+344,Pfizer,2500,19,Chennai,110,"Work Life Balance, Skill Development / Learning, Company Culture",1.7,63,4.1,Not Received
+345,Emcure,7500,42,Pune,92,"Job Security, Promotions / Appraisal",1.7,71,3.8,Not Received
+346,DS,2500,94,Noida,182,"Work Life Balance, Job Security",1.7,67,4.0,Not Received
+347,Mahindra,2500,23,Mumbai,116,"Skill Development / Learning, Company Culture, Work Life Balance",1.7,26,4.1,Not Received
+348,Renault,25000,16,Chennai,74,"Job Security, Company Culture, Work Life Balance",1.7,4,4.1,Not Received
+349,Kalpataru,2500,42,Mumbai,204,"Job Security, Skill Development / Learning, Company Culture",1.7,8,4.1,Not Received
+350,Datamatics,7500,48,Mumbai,25,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1.7,180,3.6,Not Received
+351,Indus,2500,16,Gurgaon,144,"Skill Development / Learning, Company Culture, Salary & Benefits",1.7,31,4.0,Not Received
+352,V,7500,21,Gurgaon,199,"Skill Development / Learning, Job Security, Company Culture",1.7,69,4.2, AmbitionBox Award Winner'22
+353,Myntra,2500,16,Bangalore,94,"Company Culture, Skill Development / Learning, Work Life Balance",1.6,131,4.0,Not Received
+354,PVR,2500,26,Gurgaon,97,"Skill Development / Learning, Job Security, Company Culture",1.6,58,4.1,Not Received
+355,Parle,2500,39,Mumbai,177,"Job Security, Work Life Balance, Skill Development / Learning",1.6,1,4.2,Not Received
+356,Motilal,7500,36,Mumbai,119,Skill Development / Learning,1.6,114,3.8,Not Received
+357,SRF,7500,53,Gurgaon,199,"Job Security, Salary & Benefits, Skill Development / Learning",1.6,14,4.2,Not Received
+358,Indian,100000,170,Delhi,199,"Job Security, Skill Development / Learning, Salary & Benefits",1.6,102,4.1,Not Received
+359,Movate,2500,27,Plano,28,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1.6,24,3.5,Not Received
+360,Mahindra,7500,27,Mumbai,91,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",1.6,71,3.6,Not Received
+361,BHEL,25000,59,Bangalore,199,"Job Security, Work Life Balance, Company Culture",1.6,102,4.1,Not Received
+362,Raymond,7500,98,New,199,"Work Life Balance, Company Culture, Job Security",1.6,29,4.1,Not Received
+363,Kansai,2500,103,Mumbai,163,Job Security,1.6,77,3.8,Not Received
+364,Reliance,100000,17,Navi,199,"Skill Development / Learning, Job Security, Company Culture",1.6,102,4.3,Not Received
+365,Info,7500,28,Noida,54,"Job Security, Company Culture, Work Life Balance",1.6,753,4.1,Not Received
+366,ICICI,2500,28,Mumbai,121,Job Security,1.6,52,3.8,Not Received
+367,Cybage,7500,28,Pune,9,"Job Security, Company Culture, Work Life Balance",1.6,262,4.0,Not Received
+368,Ambuja,7500,40,Mumbai,184,Promotions / Appraisal,1.6,102,3.9,Not Received
+369,KPMG,23942,46,Mumbai,199,"Job Security, Company Culture",1.6,254,3.7,Not Received
+370,MSN,25000,20,Hyderabad,199,Job Security,1.6,45,3.8,Not Received
+371,Shell,25000,19,London,76,"Work Life Balance, Company Culture, Salary & Benefits",1.6,20,4.3, AmbitionBox Award Winner'22
+372,Poonawalla,2500,35,Mumbai,244,Promotions / Appraisal,1.6,85,3.9,Not Received
+373,Fujitsu,7500,88,Bangalore,199,"Work Life Balance, Job Security, Company Culture",1.6,49,3.9,Not Received
+374,Kalyan,7500,30,Bengaluru,199,"Skill Development / Learning, Company Culture, Salary & Benefits",1.6,12,4.8,Not Received
+375,GlaxoSmithKline,2500,193,Brentford,173,"Company Culture, Skill Development / Learning, Work Life Balance",1.6,324,4.2,Not Received
+376,Cadila,7500,72,Ahmedabad,108,"Job Security, Promotions / Appraisal, Work Satisfaction",1.6,17,3.4,Not Received
+377,ZS,7500,40,Evanston,8,Salary & Benefits,1.6,45,3.5,Not Received
+378,HCL,75,47,Noida,107,"Job Security, Work Life Balance, Company Culture",1.6,1,4.0,Not Received
+379,Whirlpool,2500,112,Michigan,134,"Work Life Balance, Company Culture, Job Security",1.6,18,4.1,Not Received
+380,Blinkit,2500,10,Gurgaon,59,Skill Development / Learning,1.6,8,3.8,Not Received
+381,JCB,2500,78,Rocester,82,Work Life Balance,1.5,102,3.9,Not Received
+382,Force,2500,65,Pune,84,"Promotions / Appraisal, Company Culture, Salary & Benefits",1.5,3,3.5,Not Received
+383,3i,2500,30,Mumbai,101,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",1.5,41,3.5,Not Received
+384,Shriram,75000,37,Chennai,417,"Job Security, Company Culture, Work Life Balance",1.5,5,4.1,Not Received
+385,Shahi,100000,49,Faridabad,57,"Job Security, Skill Development / Learning, Company Culture",1.5,60,4.1,Not Received
+386,Syngene,2500,30,Bangalore,199,"Job Security, Company Culture, Skill Development / Learning",1.5,58,3.9,Not Received
+387,Tata,25000,34,Bangalore,199,"Job Security, Company Culture, Work Life Balance",1.5,239,4.0,Not Received
+388,Endurance,2500,38,Aurangabad,37,Skill Development / Learning,1.5,5,3.8,Not Received
+389,Dhani,2500,46,Aurangabad,199,"Job Security, Promotions / Appraisal",1.5,102,3.8,Not Received
+390,Lodha,2500,43,Mumbai,21,"Skill Development / Learning, Company Culture, Work Life Balance",1.5,126,4.1,Not Received
+391,Kent,2500,24,Noida,135,"Work Life Balance, Work Satisfaction, Company Culture",1.5,24,4.1,Not Received
+392,GVK,25000,18,Hyderabad,199,"Promotions / Appraisal, Job Security, Salary & Benefits",1.5,24,3.7,Not Received
+393,Delphi,2500,34,Kanchipuram,30,"Skill Development / Learning, Work Satisfaction, Company Culture",1.5,1,4.0,Not Received
+394,Bharti,2500,17,Mumbai,216,Skill Development / Learning,1.5,14,3.9,Not Received
+395,Sobha,2500,28,Bangalore,199,"Job Security, Skill Development / Learning",1.5,49,4.0,Not Received
+396,Foundever,7500,38,Miami,15,"Job Security, Work Life Balance",1.5,108,3.9,Not Received
+397,Bharat,7500,71,Mumbai,204,"Skill Development / Learning, Salary & Benefits, Job Security",1.5,102,4.1,Not Received
+398,ITC,7500,48,Kolkata,70,"Job Security, Skill Development / Learning, Company Culture",1.5,102,4.1,Not Received
+399,Brakes,47500,61,Chennai,69,"Job Security, Skill Development / Learning, Work Satisfaction",1.5,4,4.0,Not Received
